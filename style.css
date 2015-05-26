@@ -1,6 +1,5 @@
-body {
+.header {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
-	background-color: white;
 	color: black;
 	text-align: center;
 }
@@ -58,4 +57,8 @@ div#unityPlayer {
 	cursor: default;
 	height: 600px;
 	width: 960px;
+}
+
+.footer {
+	text-align: center;
 }
