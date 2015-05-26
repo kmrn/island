@@ -59,8 +59,8 @@ div#unityPlayer {
 	width: 960px;
 }
 
-.banner {
-	margin: 0 auto;
+.banner ins {
+	text-align: center;
 }
 
 .footer {
